@@ -32,6 +32,10 @@ Además de sus valores nutricionales y su escaso aporte de calorías, el zapalli
 # Frambuesa
 La frambuesa posee importantes nutrientes como la vitamina C, útil para la absorción de hierro. El magnesio, hierro y fósforo son los minerales predominantes en la frambuesa, por lo que es un alimento recomendado para las personas con hipertensión arterial o afecciones de los vasos sanguíneos y del corazón.
 
+La frambuesa posee importantes nutrientes como la vitamina C, útil para la absorción de hierro, por lo que es un alimento recomendado para las personas con hipertensión arterial o afecciones de los vasos sanguíneos y del corazón.
+
+El magnesio, hierro y fósforo son los minerales predominantes en la frambuesa, por lo que es un alimento recomendado para las personas con hipertensión arterial o afecciones de los vasos sanguíneos y del corazón.
+
 Además, contiene una amplia variedad de antioxidantes que desempeñan un papel importante en la prevención de enfermedades cardiovasculares y ciertos tipos de cáncer. Asimismo, la frambuesa es una buena fuente de fibra y se le atribuyen propiedades diuréticas.
 
 También contiene ácido fólico, imprescindible para las embarazadas, un elemento que interviene en la producción de glóbulos rojos y blancos y en la formación de anticuerpos del sistema inmunológico.
@@ -41,10 +45,18 @@ La frutilla pertenece al grupo de las de color rojo. La única diferencia entre 
 
 Aporta pocas calorías, una gran cantidad de agua (lo que facilita la hidratación de nuestro cuerpo), fibras, azúcares, vitamina y minerales. Presenta mucha vitamina C y otros antioxidantes en contra de los radicales libres, los principales causantes de diversos tipos de cáncer y el envejecimiento.
 
+La frutilla pertenece al grupo de las de color rojo. Aporta pocas calorías, una gran cantidad de agua (lo que facilita la hidratación de nuestro cuerpo), fibras, azúcares, vitamina y minerales.
+
+La frutilla pertenece al grupo de las de color rojo. Presenta mucha vitamina C y otros antioxidantes en contra de los radicales libres, los principales causantes de diversos tipos de cáncer y el envejecimiento.
+
 También facilita la menor absorción de carbohidratos, así como mejora el tránsito intestinal, contribuyendo de este modo al mantenimiento de los niveles de azúcar en sangre..
 
 # Mora
 Una de las principales características de la mora es que aporta una buena cantidad de fibra. Ayuda a reducir el colesterol, mejora la digestión y mejora la salud del colon. Asimismo, las moras contienen numerosas vitaminas como las vitaminas A, C, E, K y el ácido fólico. La vitamina A nos ayuda con nuestra salud ocular. La vitamina C mejora la inmunidad y nos proporciona antioxidantes esenciales. La vitamina E actúa como un antioxidante y combate los radicales libres.
+
+Una de las principales características de la mora es que aporta una buena cantidad de fibra. Ayuda a reducir el colesterol, mejora la digestión y mejora la salud del colon. 
+
+Las moras contienen numerosas vitaminas como las vitaminas A, C, E, K y el ácido fólico. La vitamina A nos ayuda con nuestra salud ocular. La vitamina C mejora la inmunidad y nos proporciona antioxidantes esenciales. La vitamina E actúa como un antioxidante.
 
 # Tomate
 El tomate tiene gran cantidad de fibra, minerales como el potasio y el fósforo, y de vitaminas, entre las que destacan la C, E, provitamina A y vitaminas del grupo B, en especial B1 y niacina o B3. Además, presenta un alto contenido en carotenos como el licopeno, pigmento natural que aporta al tomate su color rojo característico. El alto contenido en vitaminas C y E y la presencia de carotenos en el tomate convierten a éste en una importante fuente de antioxidantes, sustancias con función protectora de nuestro organismo.
